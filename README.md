@@ -31,6 +31,7 @@ The three Team Galileo planet packs - JNSQ, GPP (secondary mode) and GEP - are d
 JNSQ is not recommended for use with other planet packs, other than those specifically endorsed by Team Galileo. At present, only Galileo's Planet Pack (GPP) and Grannus Expansion Pack (GEP) are designed to work alongside JNSQ. Because of differences in native scale, resizing is necessary to allow the planet packs to co-exist in the same install. To this end, optional Rescale mods are provided to enable all three planet packs to be set to the same scale. Questions regarding other planet pack compatibility will be ignored.
 
 ## Localizations
+* French
 * German
 * Italian
 * Spanish
